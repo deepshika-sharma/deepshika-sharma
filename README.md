@@ -7,7 +7,7 @@
 ### Hi there 👋
 <hr>
 
-Hi, I am currently a General Assembly Data Science Immersive student graduating in May 2022.
+Hi I'm Deepshika and I am currently a General Assembly Data Science Immersive student graduating in May 2022.
 My passion for Data Science was sparked when I was self learning Web Development and was able to build a website for image recognition using an API. I have also had the chance of building a model that could predict dog breeds through image recognition.
 I find great satisfaction in taking up challenges and solving them using the skills I have learned like Data Exploration/Visualization and using models to make predictions.
 Here's a short list of my skills:
