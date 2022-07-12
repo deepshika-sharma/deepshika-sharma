@@ -13,6 +13,7 @@ I find great satisfaction in taking up challenges and solving them using the ski
 Here's a short list of my skills:
 * Python
 * SQL
+* JavaScript
 * Natural Language Processing
 * Deep Learning
 * Data Visualization
